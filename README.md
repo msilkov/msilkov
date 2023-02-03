@@ -1,14 +1,19 @@
 <h1 align="center">Привет 👋 , я Михаил</h1>
 <h3 align="center">Начинающий веб-разработчик</h3>
-<img align="right" width="400" src="https://yesimadesigner.com/wp-content/uploads/2019/11/gg.gif?x99157&x99157&x99157&x99157" alt="Coding">
 
-<p align="left" style="margin-top:85px"> <img src="https://komarev.com/ghpvc/?username=msilkov&label=Profile%20views&color=0e75b6&style=flat" alt="msilkov" /> </p>
+<img align="right" width="400" src="https://yesimadesigner.com/wp-content/uploads/2019/11/gg.gif?x99157&x99157&x99157&x99157" alt="Coding">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="https://komarev.com/ghpvc/?username=msilkov&label=Profile%20views&color=0e75b6&style=flat" alt="msilkov" />
 
 - 🌱 В настоящее время я изучаю **автотестирование и алгоритмы**
 
 - 📫 Моя почта **silkov.michael@yandex.ru**
 
 - 📄 Узнать о моем опыте [https://career.habr.com/michaelsilkov](https://career.habr.com/michaelsilkov)
+
+
 
 <h3 align="left">Связь со мной:</h3>
 <p align="left">
