@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Russia</h3>
 <img align="right" width="400" src="https://yesimadesigner.com/wp-content/uploads/2019/11/gg.gif?x99157&x99157&x99157&x99157" alt="Coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msilkov&label=Profile%20views&color=0e75b6&style=flat" alt="msilkov" /> </p>
+<p align="left" style="margin-top:85px"> <img src="https://komarev.com/ghpvc/?username=msilkov&label=Profile%20views&color=0e75b6&style=flat" alt="msilkov" /> </p>
 
 - 🌱 I’m currently learning **React, testing**
 
@@ -77,3 +77,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msilkov&show_icons=true&locale=en" alt="msilkov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msilkov&" alt="msilkov" /></p>
+
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=msilkov&theme=react&bg_color=fff&color=000" alt="msilkov" />
