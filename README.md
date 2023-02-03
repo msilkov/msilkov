@@ -73,10 +73,10 @@
 </p>
 
 <div >
- <img align="right" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=msilkov&show_icons=true&locale=ru&layout=compact&card_width=400" alt="msilkov" />
+ <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=msilkov&show_icons=true&locale=ru&layout=compact&card_width=400" alt="msilkov" />
  </div>
 
-<img width="33%" src="https://github-readme-stats.vercel.app/api?username=msilkov&show_icons=true&locale=ru" alt="msilkov" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=msilkov&show_icons=true&locale=ru" alt="msilkov" />
 
 
 
