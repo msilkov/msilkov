@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Mikhail</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h1 align="center">Привет 👋 , я Михаил</h1>
+<h3 align="center">Начинающий веб-разработчик</h3>
 <img align="right" width="400" src="https://yesimadesigner.com/wp-content/uploads/2019/11/gg.gif?x99157&x99157&x99157&x99157" alt="Coding">
 
 <p align="left" style="margin-top:85px"> <img src="https://komarev.com/ghpvc/?username=msilkov&label=Profile%20views&color=0e75b6&style=flat" alt="msilkov" /> </p>
 
-- 🌱 I’m currently learning **React, testing**
+- 🌱 В настоящее время я изучаю **автотестирование и алгоритмы**
 
-- 📫 How to reach me **silkov.michael@yandex.ru**
+- 📫 Моя почта **silkov.michael@yandex.ru**
 
-- 📄 Know about my experiences [https://career.habr.com/michaelsilkov](https://career.habr.com/michaelsilkov)
+- 📄 Узнать о моем опыте [https://career.habr.com/michaelsilkov](https://career.habr.com/michaelsilkov)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Связь со мной:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/михаил-силков-95311a170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="михаил-силков-95311a170" height="40" width="40" /></a>
 <a href="https://instagram.com/m.silkov?igshid=YWJhMjlhZTc=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.silkov" height="30" width="40" /></a>
  <a href="https://t.me/msilkov" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Языки и Технологический стек:</h3>
 <p align="left">
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -72,10 +72,14 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msilkov&show_icons=true&locale=en&layout=compact" alt="msilkov" /></p>
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msilkov&show_icons=true&locale=ru&layout=compact&card_width=400" alt="msilkov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msilkov&show_icons=true&locale=en" alt="msilkov" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=msilkov&show_icons=true&locale=ru" alt="msilkov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msilkov&" alt="msilkov" /></p>
-
+ <p>
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=msilkov&theme=react&bg_color=fff&color=000" alt="msilkov" />
+</p>
+<p align="center">
+<img  width="600" src="https://github-readme-streak-stats.herokuapp.com?user=msilkov&theme=graywhite&locale=ru&date_format=j%20M%5B%20Y%5D" alt="msilkov" />
+ </p>
