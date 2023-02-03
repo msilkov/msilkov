@@ -72,10 +72,12 @@
 </a>
 </p>
 
-<p align="center" justify-content ="space-between">
- <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=msilkov&show_icons=true&locale=ru&layout=compact&card_width=400" alt="msilkov" />
+<div >
+ <img align="right" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=msilkov&show_icons=true&locale=ru&layout=compact&card_width=400" alt="msilkov" />
+ </div>
+
 <img width="33%" src="https://github-readme-stats.vercel.app/api?username=msilkov&show_icons=true&locale=ru" alt="msilkov" />
-</p>
+
 
 
 
