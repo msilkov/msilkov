@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋 , я Михаил</h1>
 <h3 align="center">Начинающий веб-разработчик</h3>
 
-<img align="right" width="400" src="https://yesimadesigner.com/wp-content/uploads/2019/11/gg.gif?x99157&x99157&x99157&x99157" alt="Coding">
+<img align="right" width="300" src="https://yesimadesigner.com/wp-content/uploads/2019/11/gg.gif?x99157&x99157&x99157&x99157" alt="Coding">
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
