@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=msilkov&label=Profile%20views&color=0e75b6&style=flat" alt="msilkov" />
 
-- 🌱 В настоящее время я разрабатываю **дипломный проект**
+- 🌱 В настоящее время я разрабатываю [**дипломный проект**](https://www.figma.com/file/fLYxLnTLoamITvMkhVTxFA/Diploma-(Copy)?node-id=891-3857&t=BEX2s2GNKoOCUu3E-0)
 
 - 📫 Моя почта **silkov.michael@yandex.ru**
 
