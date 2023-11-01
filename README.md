@@ -85,12 +85,3 @@
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=msilkov&show_icons=true&locale=ru" alt="msilkov" />
 
-
-
-
- <p>
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=msilkov&theme=react&bg_color=fff&line=20e484&point=20e484&color=000&custom_title=Contribution%20graph" alt="msilkov" />
-</p>
-<p align="center">
-<img  width="600" src="https://github-readme-streak-stats.herokuapp.com?user=msilkov&theme=graywhite&locale=ru&fire=20e484&currStreakNum=20e484&sideNums=20e484&date_format=j%20M%5B%20Y%5D" alt="msilkov" />
- </p>
