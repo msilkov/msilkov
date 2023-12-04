@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=msilkov&label=Profile%20views&color=0e75b6&style=flat" alt="msilkov" />
 
-- 🌱 В настоящее время я изучаю [**алгоритмы и структуры данных**](https://practicum.yandex.ru/algorithms-interview/)
+- 🌱 В настоящее время работаю в [**Roofbuddy**](https://roofbuddy.co.nz)
 
 - 📫 Моя почта **silkov.michael@yandex.ru**
 
