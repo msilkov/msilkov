@@ -14,7 +14,6 @@
 
 - 📫 Моя почта **silkov.michael@yandex.ru**
 
-- 📄 Узнать о моем опыте [https://career.habr.com/michaelsilkov](https://career.habr.com/michaelsilkov)
 
 
 
