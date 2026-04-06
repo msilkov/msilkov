@@ -6,7 +6,7 @@ React · TypeScript · Next.js · GraphQL
 
 ## About
 
-Frontend-oriented Full-Stack Engineer with 3+ years of commercial experience in product development.
+Frontend-oriented Full-Stack Engineer with commercial experience in product development.
 
 Currently working on a B2C SaaS platform, focusing on:
 - React / Next.js applications
