@@ -1,66 +1,55 @@
 # Mikhail Silkov
-Frontend / Full-Stack Engineer  
-React · TypeScript · Next.js · GraphQL
+
+**Senior Full-Stack / Product Engineer** · React · TypeScript · Node.js · GraphQL
+
+I take a business problem, break it down to a technical solution, and ship it. Three years of commercial product work at RoofBuddy, a SaaS marketplace, plus about five years in web overall. Heading toward tech lead / solution architect.
 
 ---
 
 ## About
 
-Frontend-oriented Full-Stack Engineer with commercial experience in product development.
+I usually own a task from framing the solution through launch and the stabilization after. Not just React and TypeScript. I also work on the backend in Node.js and GraphQL, and spend a lot of time in product logic, CRM, and team process.
 
-Currently working on a B2C SaaS platform, focusing on:
+Currently at RoofBuddy, working on:
 - React / Next.js applications
-- GraphQL integrations
-- CRM systems development
-- Internal platform tooling
+- GraphQL integrations with Apollo
+- An internal CRM built from scratch
 - Production stability and performance
-
-I value structured code, predictable systems, and maintainable architecture.
+- AI-assisted engineering and multi-agent code review
 
 ---
 
 ## Core Stack
 
-- **Frontend:** React, TypeScript, Next.js
-- **Data:** GraphQL (Apollo), REST
-- **Backend:** Node.js, Express
-- **Databases:** PostgreSQL, MongoDB
-- **Infra:** Docker, CI/CD
-- **Other:** SSR, RBAC, performance optimization
+- **Frontend:** React, Next.js, TypeScript, SSR / SSG / ISR / CSR
+- **Backend:** Node.js, GraphQL resolvers, Express, REST
+- **Data:** Apollo Client, PostgreSQL
+- **Infra:** Docker, CI/CD with GitHub Actions and GitLab CI, Git
+- **Quality:** Jest, Cypress, performance analysis, code review, RBAC
 
 ---
 
-## Selected Work Areas
-
-### CRM & Internal Tooling
-- Built Guardian Steel Orders & CRM integration from MVP → full-featured system (lists, search, details, CRM links) → improved ops efficiency and transparency.
-- Migrated workflows (Reviews, Quote Requests, Companies, Users) from Retool → native CRM → removed third-party dependency, ensured full data integrity, improved reliability.
-- Redesigned core RB website and admin surfaces (2024) → unified UX, permissions, and multi-step flows → improved maintainability and ops consistency.
-- Refactored and standardized frontend architecture → reusable hooks, shared abstractions → reduced duplication, accelerated feature development.
+## Selected Work
 
 ### Platform & Architecture
-- Designed BuddyKit GraphQL hooks library → unified API layer for frontend apps → reduced stale-state bugs, accelerated onboarding of new features.
-- Implemented backend proxy for external APIs → resolved CORS, secured secrets → simplified integrations and improved system security.
-- Upgraded frontend stack (Apollo 3→4, SSR improvements, state management) → modernized architecture, increased stability and performance.
+- **BuddyKit**, a GraphQL hooks library. It became the team's single layer between frontend and API: less duplication, faster CRM features.
+- **A Node.js backend proxy** for an external GraphQL API. Hid the API keys and closed CORS.
+- **Retool to native CRM.** Led the move onto our own CRM in React and Node.js/GraphQL, so the business no longer depends on an outside tool. Data integrity held.
 
-### Reliability & Operational Excellence
-- Introduced health-checks, logging, error classification, and RBAC fixes → reduced operational risk and monitoring noise.
-- Hardened complex frontend flows (forms, tables, multi-step workflows) → improved data accuracy, reduced user errors.
-- Systematically fixed regressions and fragile code → increased production stability and lowered incident risk.
+### Product Delivery
+- **Guardian Steel Orders**, start to finish: lists, filters, detail views, CRM link. A manual email process became a managed system.
+- **Company reviews and ratings**, rebuilt. New DB schema, recalculations, new UI. More transparency on the platform.
+- **The 2024 RoofBuddy redesign** and the customer/roofer dashboards. I argued for the product idea behind the UI, not just built it.
 
-### Product & Business Impact
-- Delivered end-to-end features across jobs, quotes, companies, users → improved internal workflows, ops throughput, and business efficiency.
-- Rebuilt company and CRM admin surfaces → streamlined processes, reduced manual work, increased trust in internal tooling.
-- Led delivery of multi-surface projects → accelerated time-to-market, ensured alignment with business needs.
-
-### Ownership & Leadership
-- Acted as technical owner for multiple CRM domains → coordinated backend, frontend, and product → improved cross-team delivery velocity.
-- Mentored junior engineers → accelerated ramp-up, improved team code quality.
-- Owned platform migrations and system-level improvements → delivered long-term impact beyond single features.
+### Reliability & Ownership
+- Reviewed an AI-generated CRM overhaul of about 410 files and 18k lines. Caught two critical data-loss bugs plus nine more candidates, then split the work into a 16-PR plan rated by risk.
+- Health-checks, error classification, RBAC and re-render fixes, performance analysis through Query Insights.
+- Lowered the team's bus factor with Confluence docs, DACI and how-to guides. Mentored a junior engineer.
 
 ---
 
 ## Contact
 
-- Telegram: https://t.me/msilkov  
-- LinkedIn: https://linkedin.com/in/михаил-силков-95311a170
+- Telegram: [@msilkov](https://t.me/msilkov)
+- LinkedIn: [in/msilkov](https://linkedin.com/in/msilkov)
+- Email: silkov.michael@yandex.ru
